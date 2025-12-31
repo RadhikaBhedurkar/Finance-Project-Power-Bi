@@ -42,6 +42,21 @@ A clear understanding of monthly and category-wise expenses.
 Quick identification of cost-heavy areas.
 Interactive tools for financial decision-making.
 
+Key Insights
+
+Total Income: ~0.28M
+Total Expense: ~0.21M
+Top Expense Categories: Utilities, Entertainment, Transport
+Daily Spending Trends: Fluctuating peaks and lows
+Monthly: Highest income in May; expenses consistent throughout the year.
+
+Main Visuals
+
+Expense by Category & Sub-Category
+Monthly Income vs Expense
+Daily Spending Trend
+Debit by Company & Account Type
+
 Conclusion
 
 This project showcases my practical skills in financial analysis, data visualization, and storytelling using Power BI. It is an ideal demonstration of how business analysts can translate raw financial data into insights that inform business strategy and cost optimization.
