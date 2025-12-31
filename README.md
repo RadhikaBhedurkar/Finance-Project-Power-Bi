@@ -43,4 +43,5 @@ Quick identification of cost-heavy areas.
 Interactive tools for financial decision-making.
 
 Conclusion
+
 This project showcases my practical skills in financial analysis, data visualization, and storytelling using Power BI. It is an ideal demonstration of how business analysts can translate raw financial data into insights that inform business strategy and cost optimization.
