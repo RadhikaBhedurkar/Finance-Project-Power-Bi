@@ -3,6 +3,7 @@
 A Finance and Performance Analysis Dashboard built using Power BI to track company expenses, identify key cost areas, and uncover financial insights. This project demonstrates business analyst skills through KPI-driven visuals, interactive filters, and clear dataset.
 
 Project Objective
+
 The objective of this project is to:
 
 Track and analyze company expenses over time.
@@ -11,6 +12,7 @@ Provide actionable insights through interactive dashboards.
 Improve transparency in financial performance for business.
 
 Question (KPIs)
+
 Which expense categories contribute the most to total spending.
 
 Days wise company spending the most or least.
@@ -26,11 +28,13 @@ The distribution of debit transactions across different company.
 Which sub-categories account for the highest spending.
 
 Process
+
 Collected and imported financial data (CSV format).
 Cleaned and prepared data in Microsoft excel.
 Built interactive Dashboard using PowerBI.
 Analyzed spending trends and patterns.
 Delivered a clean, insightful dashboard for business use.
+
 Project Outcome
 The dashboard provides:
 
